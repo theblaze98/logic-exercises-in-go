@@ -1,10 +1,9 @@
 # 12. Entero a Romano
 
-**Medio**
+### Nivel
+**Facil** :3rd_place_medal:
 
-## Temas
-Empresas
-
+## Pista
 Siete símbolos diferentes representan los números romanos con los siguientes valores:
 
 | Símbolo | Valor |
